@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Igor Mytyuk"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Full-Stack Software Developer
